@@ -1,2 +1,2 @@
 # azure-resume
-Kien azure resume project
+I constructed a personal resume hosted on Microsoft Azure, utilizing Azure Blob Storage, Azure Functions, and CosmosDB for its backend. The webpage was crafted using HTML and CSS. I further streamlined the development process by implementing a CI/CD workflow through GitHub. This resulted in the deployment of a static web app powered by a serverless database. This initiative was undertaken as a part of the ACG Projects challenge.
